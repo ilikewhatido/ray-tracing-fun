@@ -1,0 +1,320 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList" />
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString" >QtFrameWork.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString" >QtFrameWork</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool" >false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool" >false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool" >false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString" >Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int" >0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString" >Debug</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+   <value key="QtVersionId" type="int" >0</value>
+   <value key="addQDumper" type="" ></value>
+   <value key="buildDirectory" type="QString" >D:\Workspace\csc305\a4\csc305a4</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+   <value key="QtVersionId" type="int" >0</value>
+   <value key="addQDumper" type="" ></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString" >APPDATA=C:\Users\songhan\AppData\Roaming</value>
+    <value type="QString" >COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files</value>
+    <value type="QString" >COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files</value>
+    <value type="QString" >COMMONPROGRAMW6432=C:\Program Files\Common Files</value>
+    <value type="QString" >COMPUTERNAME=SONGHAN-PC</value>
+    <value type="QString" >COMSPEC=C:\Windows\system32\cmd.exe</value>
+    <value type="QString" >DEVENVDIR=D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE</value>
+    <value type="QString" >DXSDK_DIR=D:\Program Files (x86)\Microsoft DirectX SDK (March 2009)\</value>
+    <value type="QString" >FP_NO_HOST_CHECK=NO</value>
+    <value type="QString" >FRAMEWORK35VERSION=v3.5</value>
+    <value type="QString" >FRAMEWORKDIR=C:\Windows\Microsoft.NET\Framework</value>
+    <value type="QString" >FRAMEWORKVERSION=v2.0.50727</value>
+    <value type="QString" >HOMEDRIVE=C:</value>
+    <value type="QString" >HOMEPATH=\Users\songhan</value>
+    <value type="QString" >INCLUDE=D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\INCLUDE;C:\Program Files\Microsoft SDKs\Windows\v6.0A\include;</value>
+    <value type="QString" >LIB=D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\LIB;C:\Program Files\Microsoft SDKs\Windows\v6.0A\lib;</value>
+    <value type="QString" >LIBPATH=C:\Windows\Microsoft.NET\Framework\v3.5;C:\Windows\Microsoft.NET\Framework\v2.0.50727;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\LIB;</value>
+    <value type="QString" >LOCALAPPDATA=C:\Users\songhan\AppData\Local</value>
+    <value type="QString" >LOGONSERVER=\\SONGHAN-PC</value>
+    <value type="QString" >NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString" >OS=Windows_NT</value>
+    <value type="QString" >PATH=D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\BIN;D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\Tools;C:\Windows\Microsoft.NET\Framework\v3.5;C:\Windows\Microsoft.NET\Framework\v2.0.50727;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\VCPackages;C:\Program Files\Microsoft SDKs\Windows\v6.0A\bin;D:\Qt\qt\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;D:\Program Files\Java\jdk1.6.0_12\bin;C:\Program Files (x86)\Common Files\DivX Shared\;D:\Qt\qt\bin;D:\Qt\qt;D:\Qt\mingw;D:\Qt\mingw\bin;D:\Program Files (x86)\ImageConverter Plus;D:\Program Files (x86)\ImageConverter Plus\Microsoft.VC80.CRT;D:\Program Files (x86)\ImageConverter Plus\Microsoft.VC80.MFC;</value>
+    <value type="QString" >PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</value>
+    <value type="QString" >PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString" >PROCESSOR_ARCHITEW6432=AMD64</value>
+    <value type="QString" >PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 15 Stepping 11, GenuineIntel</value>
+    <value type="QString" >PROCESSOR_LEVEL=6</value>
+    <value type="QString" >PROCESSOR_REVISION=0f0b</value>
+    <value type="QString" >PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString" >PROGRAMFILES=C:\Program Files (x86)</value>
+    <value type="QString" >PROGRAMFILES(X86)=C:\Program Files (x86)</value>
+    <value type="QString" >PROGRAMW6432=C:\Program Files</value>
+    <value type="QString" >PROMPT=$P$G</value>
+    <value type="QString" >PUBLIC=C:\Users\Public</value>
+    <value type="QString" >QMAKESPEC=win32-msvc2008</value>
+    <value type="QString" >QTDIR=D:/Qt/qt</value>
+    <value type="QString" >SESSIONNAME=Console</value>
+    <value type="QString" >SYSTEMDRIVE=C:</value>
+    <value type="QString" >SYSTEMROOT=C:\Windows</value>
+    <value type="QString" >TEMP=C:\Users\songhan\AppData\Local\Temp</value>
+    <value type="QString" >TMP=C:\Users\songhan\AppData\Local\Temp</value>
+    <value type="QString" >USERDOMAIN=songhan-PC</value>
+    <value type="QString" >USERNAME=songhan</value>
+    <value type="QString" >USERPROFILE=C:\Users\songhan</value>
+    <value type="QString" >VBOX_INSTALL_PATH=D:\Program Files\Sun\VirtualBox\</value>
+    <value type="QString" >VCINSTALLDIR=D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC</value>
+    <value type="QString" >VS90COMNTOOLS=D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\Tools\</value>
+    <value type="QString" >VSINSTALLDIR=D:\Program Files (x86)\Microsoft Visual Studio 9.0</value>
+    <value type="QString" >WINDIR=C:\Windows</value>
+    <value type="QString" >WINDOWSSDKDIR=C:\Program Files\Microsoft SDKs\Windows\v6.0A\</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >D:/Workspace/csc305/a4/csc305a4/QtFrameWork.pro</value>
+    <value type="QString" >-spec</value>
+    <value type="QString" >win32-msvc2008</value>
+    <value type="QString" >-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >D:/Qt/qt/bin/qmake.exe</value>
+   <value key="abstractProcess.enabled" type="bool" >true</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >D:/Workspace/csc305/a4/csc305a4</value>
+   <value key="buildConfiguration" type="int" >2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString" >APPDATA=C:\Users\songhan\AppData\Roaming</value>
+    <value type="QString" >COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files</value>
+    <value type="QString" >COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files</value>
+    <value type="QString" >COMMONPROGRAMW6432=C:\Program Files\Common Files</value>
+    <value type="QString" >COMPUTERNAME=SONGHAN-PC</value>
+    <value type="QString" >COMSPEC=C:\Windows\system32\cmd.exe</value>
+    <value type="QString" >DEVENVDIR=D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE</value>
+    <value type="QString" >DXSDK_DIR=D:\Program Files (x86)\Microsoft DirectX SDK (March 2009)\</value>
+    <value type="QString" >FP_NO_HOST_CHECK=NO</value>
+    <value type="QString" >FRAMEWORK35VERSION=v3.5</value>
+    <value type="QString" >FRAMEWORKDIR=C:\Windows\Microsoft.NET\Framework</value>
+    <value type="QString" >FRAMEWORKVERSION=v2.0.50727</value>
+    <value type="QString" >HOMEDRIVE=C:</value>
+    <value type="QString" >HOMEPATH=\Users\songhan</value>
+    <value type="QString" >INCLUDE=D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\INCLUDE;C:\Program Files\Microsoft SDKs\Windows\v6.0A\include;</value>
+    <value type="QString" >LIB=D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\LIB;C:\Program Files\Microsoft SDKs\Windows\v6.0A\lib;</value>
+    <value type="QString" >LIBPATH=C:\Windows\Microsoft.NET\Framework\v3.5;C:\Windows\Microsoft.NET\Framework\v2.0.50727;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\LIB;</value>
+    <value type="QString" >LOCALAPPDATA=C:\Users\songhan\AppData\Local</value>
+    <value type="QString" >LOGONSERVER=\\SONGHAN-PC</value>
+    <value type="QString" >NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString" >OS=Windows_NT</value>
+    <value type="QString" >PATH=D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\BIN;D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\Tools;C:\Windows\Microsoft.NET\Framework\v3.5;C:\Windows\Microsoft.NET\Framework\v2.0.50727;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\VCPackages;C:\Program Files\Microsoft SDKs\Windows\v6.0A\bin;D:\Qt\qt\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;D:\Program Files\Java\jdk1.6.0_12\bin;C:\Program Files (x86)\Common Files\DivX Shared\;D:\Qt\qt\bin;D:\Qt\qt;D:\Qt\mingw;D:\Qt\mingw\bin;D:\Program Files (x86)\ImageConverter Plus;D:\Program Files (x86)\ImageConverter Plus\Microsoft.VC80.CRT;D:\Program Files (x86)\ImageConverter Plus\Microsoft.VC80.MFC;</value>
+    <value type="QString" >PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</value>
+    <value type="QString" >PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString" >PROCESSOR_ARCHITEW6432=AMD64</value>
+    <value type="QString" >PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 15 Stepping 11, GenuineIntel</value>
+    <value type="QString" >PROCESSOR_LEVEL=6</value>
+    <value type="QString" >PROCESSOR_REVISION=0f0b</value>
+    <value type="QString" >PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString" >PROGRAMFILES=C:\Program Files (x86)</value>
+    <value type="QString" >PROGRAMFILES(X86)=C:\Program Files (x86)</value>
+    <value type="QString" >PROGRAMW6432=C:\Program Files</value>
+    <value type="QString" >PROMPT=$P$G</value>
+    <value type="QString" >PUBLIC=C:\Users\Public</value>
+    <value type="QString" >QMAKESPEC=win32-msvc2008</value>
+    <value type="QString" >QTDIR=D:/Qt/qt</value>
+    <value type="QString" >SESSIONNAME=Console</value>
+    <value type="QString" >SYSTEMDRIVE=C:</value>
+    <value type="QString" >SYSTEMROOT=C:\Windows</value>
+    <value type="QString" >TEMP=C:\Users\songhan\AppData\Local\Temp</value>
+    <value type="QString" >TMP=C:\Users\songhan\AppData\Local\Temp</value>
+    <value type="QString" >USERDOMAIN=songhan-PC</value>
+    <value type="QString" >USERNAME=songhan</value>
+    <value type="QString" >USERPROFILE=C:\Users\songhan</value>
+    <value type="QString" >VBOX_INSTALL_PATH=D:\Program Files\Sun\VirtualBox\</value>
+    <value type="QString" >VCINSTALLDIR=D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC</value>
+    <value type="QString" >VS90COMNTOOLS=D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\Tools\</value>
+    <value type="QString" >VSINSTALLDIR=D:\Program Files (x86)\Microsoft Visual Studio 9.0</value>
+    <value type="QString" >WINDIR=C:\Windows</value>
+    <value type="QString" >WINDOWSSDKDIR=C:\Program Files\Microsoft SDKs\Windows\v6.0A\</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" />
+   <value key="abstractProcess.command" type="QString" >D:/Program Files (x86)/Microsoft Visual Studio 9.0/VC/BIN/nmake.exe</value>
+   <value key="abstractProcess.enabled" type="bool" >true</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >D:/Workspace/csc305/a4/csc305a4</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString" >APPDATA=C:\Users\songhan\AppData\Roaming</value>
+    <value type="QString" >COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files</value>
+    <value type="QString" >COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files</value>
+    <value type="QString" >COMMONPROGRAMW6432=C:\Program Files\Common Files</value>
+    <value type="QString" >COMPUTERNAME=SONGHAN-PC</value>
+    <value type="QString" >COMSPEC=C:\Windows\system32\cmd.exe</value>
+    <value type="QString" >DEVENVDIR=D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE</value>
+    <value type="QString" >DXSDK_DIR=D:\Program Files (x86)\Microsoft DirectX SDK (March 2009)\</value>
+    <value type="QString" >FP_NO_HOST_CHECK=NO</value>
+    <value type="QString" >FRAMEWORK35VERSION=v3.5</value>
+    <value type="QString" >FRAMEWORKDIR=C:\Windows\Microsoft.NET\Framework</value>
+    <value type="QString" >FRAMEWORKVERSION=v2.0.50727</value>
+    <value type="QString" >HOMEDRIVE=C:</value>
+    <value type="QString" >HOMEPATH=\Users\songhan</value>
+    <value type="QString" >INCLUDE=D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\INCLUDE;C:\Program Files\Microsoft SDKs\Windows\v6.0A\include;</value>
+    <value type="QString" >LIB=D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\LIB;C:\Program Files\Microsoft SDKs\Windows\v6.0A\lib;</value>
+    <value type="QString" >LIBPATH=C:\Windows\Microsoft.NET\Framework\v3.5;C:\Windows\Microsoft.NET\Framework\v2.0.50727;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\LIB;</value>
+    <value type="QString" >LOCALAPPDATA=C:\Users\songhan\AppData\Local</value>
+    <value type="QString" >LOGONSERVER=\\SONGHAN-PC</value>
+    <value type="QString" >NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString" >OS=Windows_NT</value>
+    <value type="QString" >PATH=D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\BIN;D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\Tools;C:\Windows\Microsoft.NET\Framework\v3.5;C:\Windows\Microsoft.NET\Framework\v2.0.50727;D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\VCPackages;C:\Program Files\Microsoft SDKs\Windows\v6.0A\bin;D:\Qt\qt\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;D:\Program Files\Java\jdk1.6.0_12\bin;C:\Program Files (x86)\Common Files\DivX Shared\;D:\Qt\qt\bin;D:\Qt\qt;D:\Qt\mingw;D:\Qt\mingw\bin;D:\Program Files (x86)\ImageConverter Plus;D:\Program Files (x86)\ImageConverter Plus\Microsoft.VC80.CRT;D:\Program Files (x86)\ImageConverter Plus\Microsoft.VC80.MFC;</value>
+    <value type="QString" >PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</value>
+    <value type="QString" >PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString" >PROCESSOR_ARCHITEW6432=AMD64</value>
+    <value type="QString" >PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 15 Stepping 11, GenuineIntel</value>
+    <value type="QString" >PROCESSOR_LEVEL=6</value>
+    <value type="QString" >PROCESSOR_REVISION=0f0b</value>
+    <value type="QString" >PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString" >PROGRAMFILES=C:\Program Files (x86)</value>
+    <value type="QString" >PROGRAMFILES(X86)=C:\Program Files (x86)</value>
+    <value type="QString" >PROGRAMW6432=C:\Program Files</value>
+    <value type="QString" >PROMPT=$P$G</value>
+    <value type="QString" >PUBLIC=C:\Users\Public</value>
+    <value type="QString" >QMAKESPEC=win32-msvc2008</value>
+    <value type="QString" >QTDIR=D:/Qt/qt</value>
+    <value type="QString" >SESSIONNAME=Console</value>
+    <value type="QString" >SYSTEMDRIVE=C:</value>
+    <value type="QString" >SYSTEMROOT=C:\Windows</value>
+    <value type="QString" >TEMP=C:\Users\songhan\AppData\Local\Temp</value>
+    <value type="QString" >TMP=C:\Users\songhan\AppData\Local\Temp</value>
+    <value type="QString" >USERDOMAIN=songhan-PC</value>
+    <value type="QString" >USERNAME=songhan</value>
+    <value type="QString" >USERPROFILE=C:\Users\songhan</value>
+    <value type="QString" >VBOX_INSTALL_PATH=D:\Program Files\Sun\xVM VirtualBox\</value>
+    <value type="QString" >VCINSTALLDIR=D:\Program Files (x86)\Microsoft Visual Studio 9.0\VC</value>
+    <value type="QString" >VS90COMNTOOLS=D:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\Tools\</value>
+    <value type="QString" >VSINSTALLDIR=D:\Program Files (x86)\Microsoft Visual Studio 9.0</value>
+    <value type="QString" >WINDIR=C:\Windows</value>
+    <value type="QString" >WINDOWSSDKDIR=C:\Program Files\Microsoft SDKs\Windows\v6.0A\</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >clean</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >D:/Program Files (x86)/Microsoft Visual Studio 9.0/VC/BIN/nmake.exe</value>
+   <value key="abstractProcess.enabled" type="bool" >true</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >D:/Workspace/csc305/a4/csc305a4</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+   <value key="buildConfiguration" type="int" >0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >Debug</value>
+   <value type="QString" >Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+   <value key="mkspec" type="QString" ></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >trolltech.qt4projectmanager.qmake</value>
+   <value type="QString" >trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+   <value key="clean" type="bool" >true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray" >System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap" />
+ </data>
+</qtcreator>
